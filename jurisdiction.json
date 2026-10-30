@@ -1,0 +1,11 @@
+{
+  "path": "ru-kir",
+  "code": "RU-KIR",
+  "name": "Kirov Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kirov-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
