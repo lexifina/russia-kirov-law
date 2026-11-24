@@ -1,6 +1,6 @@
 # Kirov Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 17 versions, from 2026-02-25 (latest in force: 2026-10-30) · <http://publication.pravo.gov.ru/documents/block/region43>
+Законы 2026 · 18 versions, from 2026-02-25 (latest in force: 2026-11-01) · <http://publication.pravo.gov.ru/documents/block/region43>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -82,6 +82,7 @@
 | Закон № 530-ЗО | [530-zo.md](530-zo.md) | 1 | 2026-08-03 |
 | Закон № 531-ЗО | [531-zo.md](531-zo.md) | 1 | 2026-08-03 |
 | Закон № 532-ЗО | [532-zo.md](532-zo.md) | 1 | 2026-08-03 |
+| Закон № 6-ЗО | [6-zo.md](6-zo.md) | 1 | 2026-11-01 |
 | Закон № 7-ЗО | [7-zo.md](7-zo.md) | 1 | 2026-10-30 |
 | Закон № 8-ЗО | [8-zo.md](8-zo.md) | 1 | 2026-10-30 |
 | Закон № 9-ЗО | [9-zo.md](9-zo.md) | 1 | 2026-10-30 |
