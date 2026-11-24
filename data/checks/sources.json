@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-kirov",
+   "kind": "legislation",
+   "name": {
+    "en": "Kirov Oblast: Official Internet Portal of Legal Information (region43)",
+    "ru": "Kirov Oblast: Официальный интернет-портал правовой информации (region43)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region43",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/kirov/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-kirov-law",
+   "group": "pravo",
+   "tz": "Europe/Kirov"
+  }
+ ]
+}
