@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Kirov Oblast: Official Internet Portal of Legal Information (region43) · `russia/kirov/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 05:59 UTC**.
-- Acts held here: 1 287; current at the source: 1 287; changed at the source since the version held here: 0; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-26 05:35 UTC**.
+- Acts held here: 1 287; current at the source: 1 287; changed at the source since the version held here: 8; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
