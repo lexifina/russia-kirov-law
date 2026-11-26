@@ -1,12 +1,20 @@
 # Kirov Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 18 versions, from 2026-02-25 (latest in force: 2026-11-01) · <http://publication.pravo.gov.ru/documents/block/region43>
+Законы 2026 · 19 versions, from 2026-02-25 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region43>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Закон № 1-ЗО | [1-zo.md](1-zo.md) | 1 | 2026-10-20 |
 | Закон № 10-ЗО | [10-zo.md](10-zo.md) | 1 | 2026-10-30 |
 | Закон № 11-ЗО | [11-zo.md](11-zo.md) | 1 | 2026-10-30 |
+| Закон № 12-ЗО | [12-zo.md](12-zo.md) | 1 | 2026-11-25 |
+| Закон № 13-ЗО | [13-zo.md](13-zo.md) | 1 | 2026-11-25 |
+| Закон № 14-ЗО | [14-zo.md](14-zo.md) | 1 | 2026-11-25 |
+| Закон № 15-ЗО | [15-zo.md](15-zo.md) | 1 | 2026-11-25 |
+| Закон № 16-ЗО | [16-zo.md](16-zo.md) | 1 | 2026-11-25 |
+| Закон № 17-ЗО | [17-zo.md](17-zo.md) | 1 | 2026-11-25 |
+| Закон № 18-ЗО | [18-zo.md](18-zo.md) | 1 | 2026-11-25 |
+| Закон № 19-ЗО | [19-zo.md](19-zo.md) | 1 | 2026-11-25 |
 | Закон № 2-ЗО | [2-zo.md](2-zo.md) | 1 | 2026-10-20 |
 | Закон № 3-ЗО | [3-zo.md](3-zo.md) | 1 | 2026-10-20 |
 | Закон № 4-ЗО | [4-zo.md](4-zo.md) | 1 | 2026-10-26 |
