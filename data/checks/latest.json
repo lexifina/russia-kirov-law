@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:09:30Z",
+ "generated": "2026-11-28T06:23:50Z",
  "latest": {
   "pravo-kirov|russia/kirov/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1295,
     "source_in_scope": 1295
    },
-   "check_id": "ru-pravo-kirov-20261127T052910Z",
+   "check_id": "ru-pravo-kirov-20261128T053758Z",
    "commits": null,
    "corpus": "russia/kirov/acts",
    "error": null,
-   "finished": "2026-11-27T05:29:43Z",
+   "finished": "2026-11-28T05:38:31Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region43: 1295 law-type documents listed (every page read); 1295 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1295 law-type documents in block region43; newest published 2026-11-25",
    "source": "pravo-kirov",
-   "started": "2026-11-27T05:29:10Z",
+   "started": "2026-11-28T05:37:58Z",
    "unexplained": 0,
    "update": {
     "parts": []
